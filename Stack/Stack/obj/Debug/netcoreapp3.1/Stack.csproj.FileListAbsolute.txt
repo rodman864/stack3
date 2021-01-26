@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.deps.json
+/Users/antonio/Desktop/CS133/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.json
+/Users/antonio/Desktop/CS133/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.dll
+/Users/antonio/Desktop/CS133/Stack/Stack/bin/Debug/netcoreapp3.1/Stack.pdb
+/Users/antonio/Desktop/CS133/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.dll
+/Users/antonio/Desktop/CS133/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.pdb
+/Users/antonio/Desktop/CS133/Stack/Stack/obj/Debug/netcoreapp3.1/Stack.genruntimeconfig.cache
